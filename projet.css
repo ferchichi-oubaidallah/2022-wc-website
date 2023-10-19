@@ -1,0 +1,188 @@
+body{
+  color:#FFF;
+  background-image: url("Image4.jpg");
+  background-size: 100%,100%;
+  background-position:center top;
+  background-repeat:no-repeat,repeat;
+  background-attachment: fixed,scroll;
+  font-size: 25px;
+
+}
+h1{
+  color:white;
+  text-align: center;
+  text-underline-position:below;
+  
+}
+
+.rma{
+  position:relative;
+ 
+}ul{
+  overflow:hidden;
+  font-size:3cm ;
+
+  }
+  li{
+  display:inline-block;
+  }
+  
+  nav.menu{
+    text-align: right;
+}
+nav.menu ul li.btn{
+    display:inline-block;
+}
+nav.menu ul li.btn {
+    list-style-type: none;
+}
+nav.menu ul li.btn a{
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    font-size: 3cm;
+}
+nav.menu ul li.btn:hover a{
+    color: white;
+    background-color: black;
+    transition: 0.3s all;
+}
+.tableau-style1 {
+    border-collapse: collapse;
+    min-width: 400px;
+    width: auto;
+    box-shadow: 0 5px 50px;
+    rgba(0,0,0,0.15);
+    cursor: pointer;
+    margin: 100px auto;
+    border: 2px solid white;
+}
+.tableau-style2 {
+  border-collapse: collapse;
+  min-width: 400px;
+  width: auto;
+  box-shadow: 0 5px 50px;
+  rgba(0,0,0,0.15);
+  cursor: pointer;
+  margin: 100px auto;
+  border: 2px solid white;
+}
+.tableau-style3 {
+  border-collapse: collapse;
+  min-width: 400px;
+  width: auto;
+  box-shadow: 0 5px 50px;
+  rgba(0,0,0,0.15);
+  cursor: pointer;
+  margin: 100px auto;
+  border: 2px solid white;
+}
+.tableau-style1 thead tr {
+  color: white;
+  background-color: black;
+text-align: left;}
+.tableau-style2 thead tr {
+  color: white;
+  background-color: black;
+  text-align: left;}
+  .tableau-style3 thead tr {
+    color: white;
+    background-color: black;
+      text-align: left;}
+      
+
+
+
+
+
+h2{
+  color:white;
+  text-align: left;
+  text-underline-position:below;
+  font-size: 2cm;
+}
+
+  .sewy {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  nav.menu-nav{
+    text-align: left;
+}
+footer.suii ul li.bt{
+    display:inline-block;
+}
+footer.suii ul li.bt{
+      list-style-type: none;
+}
+footer.suii ul li.bt{
+      color: white;
+    padding: 8px;
+    font-size: 3cm;
+}
+footer.suii ul li.bt:hover a{
+    color: white;
+    background-color: black;
+    transition: 0.3s all;
+}
+.aa{
+
+
+  display: block;
+    
+    margin-left :60%;
+  }
+  h3{
+    color:white;
+    text-align: left;
+    text-underline-position:below;
+    font-size: 1cm;
+  }
+  
+  #zz{
+    display: flex;
+    align-items: center;
+    position : relative;
+    
+
+
+  }
+
+
+  .head{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  a:visited{
+    text-decoration: none;
+    color: white;
+  }
+.mm{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ss{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+span{
+  vertical-align: middle;
+}
+.ah {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.sen{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ur{
+  text-align: center;
+}

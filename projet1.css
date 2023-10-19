@@ -1,0 +1,38 @@
+body{
+    color:#FFF;
+    background-image: url("image19.jpg");
+    background-size: 100%,100%;
+    background-position:center top;
+    background-repeat:no-repeat,repeat;
+    background-attachment: fixed,scroll;
+    font-size: 25px;
+  
+  }
+ul{
+  overflow:hidden;
+   
+
+  }
+  li{
+  display:inline-block;
+  }
+  
+  nav.menu{
+    text-align: left;
+}
+nav.menu ul li.btn{
+    display:inline-block;
+}
+nav.menu ul li.btn {
+    list-style-type: none;
+}
+nav.menu ul li.btn a{
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    
+}
+nav.menu ul li.btn:hover a{
+    color: white;
+    background-color: black;
+    transition: 0.3s all;
